@@ -1,5 +1,5 @@
 * [Download](http://downloads.dattobackup.com/openzfs/zfslearn.ova)
-* [Setup](http://github.com/sburgess/zfs-learnsetup)
+* [Setup](https://github.com/stevenburgess/zfs-learn/blob/master/SETUP.md)
 
 This VM has been set up as a place for you to interact with ZFS. You should not
 put real data on here, or use it for performance testing.
